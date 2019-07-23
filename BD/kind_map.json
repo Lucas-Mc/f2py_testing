@@ -1,0 +1,53 @@
+{
+  "real": {
+    "siki": "float",
+    "reki": "float",
+    "r8ki": "float",
+    "dbki": "double",
+    "bdki": "double",
+    "quki": "double",
+    "": "float",
+    "4": "float",
+    "8": "double",
+    "dp": "double",
+    "idp":"double"
+  },
+  "complex": {
+    "": "complex_float",
+    "8" : "complex_double",
+    "16": "complex_long_double",
+    "dp": "complex_double",
+    "siki": "complex_float",
+    "reki": "complex_float",
+    "r8ki": "complex_float",
+    "dbki": "complex_double",
+    "bdki": "complex_double",
+    "quki": "complex_long_double"
+  },
+  "integer" : {
+    "c_intptr_t": "int",
+    "intki": "int",
+    "b2ki": "int",
+    "b8ki": "int",
+    "": "int",
+    "4": "int",
+    "8": "long_long",
+    "dp": "long_long"
+  },
+  "character": {
+    "": "char",
+    "*": "char",
+    "1": "char",
+    "8": "char",
+    "10": "char",
+    "11": "char",
+    "13": "char",
+    "15": "char",
+    "20": "char",
+    "24": "char",
+    "99": "char",
+    "200": "char",
+    "512": "char",
+    "1024": "char"
+  }
+}
