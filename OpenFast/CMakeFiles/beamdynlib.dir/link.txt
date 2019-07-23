@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libbeamdynlib.a  CMakeFiles/beamdynlib.dir/src/BeamDyn.f90.o CMakeFiles/beamdynlib.dir/src/BeamDyn_IO.f90.o CMakeFiles/beamdynlib.dir/src/BeamDyn_Subs.f90.o CMakeFiles/beamdynlib.dir/BeamDyn_Types.f90.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libbeamdynlib.a

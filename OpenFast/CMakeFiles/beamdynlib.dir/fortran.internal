@@ -1,0 +1,6 @@
+# The fortran modules provided by this target.
+provides
+ beamdyn.mod
+ beamdyn_io.mod
+ beamdyn_subs.mod
+ beamdyn_types.mod
